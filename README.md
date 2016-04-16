@@ -1,2 +1,2 @@
-# lifebot
-Our Facebook Messenger bot from def hacks spring 16 that helps people with depression/in need
+# LifeBot
+Our Facebook Messenger bot MADE AT defhacks() Spring '16 hackathon that gives support to people with depression/in need
