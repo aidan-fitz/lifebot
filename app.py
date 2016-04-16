@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
-import messenger
+from messenger import Messenger
 
 class Bot:
     # Cool stuff goes here
-    pass
+    def __init__(self, user):
+        self.client = user
