@@ -4,3 +4,4 @@ import messenger
 
 class Bot:
     # Cool stuff goes here
+    pass
