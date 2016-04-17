@@ -39,4 +39,4 @@ def verify():
     return request.args.get('hub.challenge')
 
 if __name__ == "__main__":
-    webhook.run(host = 'lifebot-webhook.herokuapp.com', port = 80)
+    webhook.run(host = 'lifebot-webhook.herokuapp.com', port = 443)
