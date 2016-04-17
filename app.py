@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-from messenger import Messenger
+import messenger
+from messenger import m
 
 class Bot:
     # Cool stuff goes here
